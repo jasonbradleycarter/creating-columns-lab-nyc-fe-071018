@@ -24,8 +24,8 @@ h4 {
 }
 
 img:hover {
-  transition-duration: 1s;
-  transform: scale(-2);
+  transition-duration: 5s;
+  transform: scale(1.05);
 }
 
 .amiable {
