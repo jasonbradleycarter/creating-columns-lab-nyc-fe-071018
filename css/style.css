@@ -25,6 +25,7 @@ h4 {
 
 img {
   transition-duration: 2s;
+  transition: scale (3)
 }
 
 img:hover {
