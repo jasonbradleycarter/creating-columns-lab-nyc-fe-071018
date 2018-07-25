@@ -23,7 +23,7 @@ h4 {
   margin: 20px 0 0 0;
 }
 
-p:hover {
+h4:hover {
   transition-duration: 2s;
 }
 
