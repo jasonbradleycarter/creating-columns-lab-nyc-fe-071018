@@ -23,9 +23,8 @@ h4 {
   margin: 20px 0 0 0;
 }
 
-img {
+p:hover {
   transition-duration: 2s;
-  transition: scale (3)
 }
 
 img:hover {
